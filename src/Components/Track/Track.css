@@ -39,4 +39,5 @@
   .Track-information audio {
     padding : .22rem;
     max-height: 30%;
+    max-width: 70%;
   }
